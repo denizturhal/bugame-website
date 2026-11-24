@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Privacy Policy — Color Merge Sort
 
 **Last updated: November 12, 2026**
